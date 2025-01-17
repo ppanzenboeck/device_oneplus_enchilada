@@ -50,7 +50,7 @@ PRODUCT_COPY_FILES += \
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.light-service.oneplus_sdm845
+    android.hardware.light-service.lineage
 
 # Pocket mode
 PRODUCT_PACKAGES += \
